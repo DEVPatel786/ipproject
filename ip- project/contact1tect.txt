@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>
+Contact Us
+</title>
+
+</head>
+<body>
+  <link rel="stylesheet" type="text/css" href="badshah.css">
+	
+
+<marquee  class="id2" width="100%" direction="left" height="100px">
+<h1 >Welcome To SKYTOP FOOD PRODUCTS</h1>
+
+</marquee>
+<div class="id4" >
+<a class="active" href="file:///D:/ip-%20project/index1.html">home</a>
+<a class="active" href="file:///D:/ip-%20project/contact1.html">contact<a>
+  <a class="active" href="file:///D:/ip-%20project/about1.html">about us</a>
+</div>
+
+ <link rel="stylesheet" type="text/css" href="badshah.css">
+<h1 class="id3">CONTACT US</h1>
+<p class="id3"> Our Head office and production hub is located in Ahmedbabd. It just a walking distance from navrangpura BRTS busstop.VADODARA near kharalibagh  cross Road.</br> Export to another country is also avalilable</p>
+<br>
+<br>
+<h2 class="id13">Head office</h2>
+<p id="id13">SKYTOP FOOD PRODUCTCTS</p>
+<P id="id13"><b><font size="5"> Address</b></font>: 60, Shraddhadeep Complex,<br> Gaurav Path, Shastrinagar, Naranpura,</br> Ahmedabad, Gujarat 380063</P>
+<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d117470.77439378863!2d72.48162046247201!3d23.061865694182927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x395e8362419e9ee1%3A0x98ad35db25d841c2!2sSkytop%20Food%20Products%2C%2060%2C%20Shraddhadeep%20Complex%2C%20Gaurav%20Path%2C%20Shastrinagar%2C%20Naranpura%2C%20Ahmedabad%2C%20Gujarat%20380063!3m2!1d23.0618812!2d72.5518338!5e0!3m2!1sen!2sin!4v1611579454732!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></br>
+
+<caption class="id18"><font size="10" color="red"> QUICK CONTACT</font> </caption>
+
+<form class="id3" class="id8" >
+         NAme
+<input type="text"></br>
+
+EMAIL
+<input type="email"><br>
+contact
+<input type="tel"pattern="(0-9)[10]"></br>
+gender
+<input type="radio"name="gender">male<input type="radio" name="gender">female</br>
+area
+  <select name="area"><option value="1">ahmedavad</option><option value="2">mehsana</option><option value="3">vadodara</option><option value="4">surat</option><option value="5">gandhinagar</option></select></br>
+
+  product  <input type="checkbox">chili<input type="checkbox">turmeric<input type="checkbox">coriander<input type="checkbox">chat masala<input type="checkbox"> garam masala<input type="checkbox">other froduct</br>
+
+  
+  <button type="submit">submit</button><button type="reset">reset</button>
+  
+      </form>
+
+</body>

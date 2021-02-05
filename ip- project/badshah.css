@@ -1,0 +1,65 @@
+.id1
+{
+	 color: red;
+}
+.id2
+{
+	color: green;
+	background-color: yellow;
+	padding: 13px;
+
+}
+body
+{
+	background-image: url("https://picjumbo.com/wp-content/uploads/spices-1570x1047.jpg");
+background-size: 100%
+  color: white;
+   font-family:  sans-serif;
+}
+
+
+.id3
+{
+	color: white;
+}
+.id4
+{
+	size: 13px;
+}
+.id9
+{
+	color: yellow;
+	border-left: green;
+	border-right: red;
+	border-size:30px;
+	border: dashed;
+
+}
+.id10
+{
+	color: pink;
+}
+.id8{
+	text-align: right, ;
+}
+}
+#id15
+{
+	color: green;
+}
+#id13{
+	color:yellow;
+}
+.id18{
+	text-align: right;
+}
+
+.topnav {
+  overflow: hidden;
+}
+.active{
+	font-size: 25;
+}
+.logo{
+	border-radius: 100%;
+}
